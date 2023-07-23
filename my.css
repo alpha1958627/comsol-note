@@ -1,0 +1,24 @@
+figure { /*图注CSS样式根据需要修改*/ 
+    font-size: 12px;
+    font-weight: normal;
+    color: #8c8c8c;
+    text-align: center;
+   }
+
+
+h1 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #da0f0f;
+    line-height: 1.5;
+    padding-left: 12px;
+    border-left: 4px #5e5c5c96 solid;
+ }
+ h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #262626;
+    line-height: 1.5;
+    padding-left: 12px;
+    border-left: 2px #f85959 solid;
+ }
